@@ -1,0 +1,13 @@
+.footer-links {
+    text-decoration: none;
+}
+
+.footer-links:hover {
+    text-decoration: underline;
+    color: var(--primary-color);
+}
+
+.footer {
+    border-top: 1px solid var(--primary-color);
+    box-shadow: 0px -8px 25px -5px var(--secondary-color);
+}
